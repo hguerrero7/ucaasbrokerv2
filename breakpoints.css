@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: 600px) {
+    .landingImg{
+        visibility: true;
+       background: url('/images/bg-landing-sm.svg') no-repeat;
+    }
+  }
+  
+@media only screen and (max-width: 1024px) {
+    .landingImg{
+        visibility: true;
+       background: url('/images/bg-landing-sm.svg') no-repeat;
+    }
+  }
